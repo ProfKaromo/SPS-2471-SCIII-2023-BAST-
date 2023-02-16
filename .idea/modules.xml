@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../MODCOM_DATA_SCIENCE/.idea/MODCOM_DATA_SCIENCE.iml" filepath="$PROJECT_DIR$/../MODCOM_DATA_SCIENCE/.idea/MODCOM_DATA_SCIENCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Online Voting System/.idea/Online Voting System.iml" filepath="$PROJECT_DIR$/../../Online Voting System/.idea/Online Voting System.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SPS-2471-SCIII-2023-BAST-.iml" filepath="$PROJECT_DIR$/.idea/SPS-2471-SCIII-2023-BAST-.iml" />
     </modules>
   </component>

@@ -4,6 +4,6 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="MODCOM_DATA_SCIENCE" />
+    <orderEntry type="module" module-name="Online Voting System" />
   </component>
 </module>

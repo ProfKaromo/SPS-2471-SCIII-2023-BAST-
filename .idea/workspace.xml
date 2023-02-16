@@ -4,15 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4353a23a-b048-4f26-b14b-75c403b004d2" name="Changes" comment="Class fun">
+    <list default="true" id="4353a23a-b048-4f26-b14b-75c403b004d2" name="Changes" comment="Vote Initial Commit">
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week6(Control Structures).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week6(Loops).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week7(Break_Cont_st).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week7(Loops_Cont).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week8(Functions).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week_6(Operator).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Online Voting System/VOTE/images/KIMATHI UNIVERSITY.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Online Voting System/VOTE/images/VERONICA KAROMO first-time-undergraduate-loan_2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SPS-2471-SCIII-2023-BAST-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SPS-2471-SCIII-2023-BAST-.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPS2471_2023_Week_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPS2471_2023_Week_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPS2471_2023_Week_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPS2471_2023_Week_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPS2471_2023_Week_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPS2471_2023_Week_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +54,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/GIT PROJECT REP/Online_Voting_System&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/GIT PROJECT REP/Online_Voting_System&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673430002580</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Vote Initial Commit">
+      <created>1674247395683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674247395683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class fun" />
+    <MESSAGE value="Vote Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vote Initial Commit" />
   </component>
 </project>
