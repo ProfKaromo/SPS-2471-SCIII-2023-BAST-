@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4353a23a-b048-4f26-b14b-75c403b004d2" name="Changes" comment="Vote Initial Commit">
-      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week6(Control Structures).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week6(Loops).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week7(Break_Cont_st).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week7(Loops_Cont).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week8(Functions).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPS2471_2023_Week_6(Operator).py" afterDir="false" />
+    <list default="true" id="4353a23a-b048-4f26-b14b-75c403b004d2" name="Changes" comment="Updated Class Codes at Week 7">
+      <change afterPath="$PROJECT_DIR$/SPS2471_2023_SCIII_CAT_I.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Online Voting System/VOTE/images/KIMATHI UNIVERSITY.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Online Voting System/VOTE/images/VERONICA KAROMO first-time-undergraduate-loan_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SPS-2471-SCIII-2023-BAST-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SPS-2471-SCIII-2023-BAST-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPS2471_2023_Week_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPS2471_2023_Week_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPS2471_2023_Week_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPS2471_2023_Week_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPS2471_2023_Week_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPS2471_2023_Week_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674247395683</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated Class Codes at Week 7">
+      <created>1676557681496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676557681496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class fun" />
     <MESSAGE value="Vote Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vote Initial Commit" />
+    <MESSAGE value="Updated Class Codes at Week 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Class Codes at Week 7" />
   </component>
 </project>
